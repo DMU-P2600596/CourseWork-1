@@ -1,0 +1,8 @@
+/*The code belows adds the background tile to both pages and makes then all link up*/
+body {
+background-image: url("../img/tilebg.png");
+}
+/*The code belows moves the image margins of the pictures from page 2 becuase the pictures where overlapping the text*/
+img{
+  margin: 5px;
+}
